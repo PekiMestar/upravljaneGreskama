@@ -1,0 +1,8 @@
+C:\Users\ucenik\source\repos\upravljaneGreskama\bin\Debug\upravljaneGreskama.exe.config
+C:\Users\ucenik\source\repos\upravljaneGreskama\bin\Debug\upravljaneGreskama.exe
+C:\Users\ucenik\source\repos\upravljaneGreskama\bin\Debug\upravljaneGreskama.pdb
+C:\Users\ucenik\source\repos\upravljaneGreskama\obj\Debug\upravljaneGreskama.csproj.AssemblyReference.cache
+C:\Users\ucenik\source\repos\upravljaneGreskama\obj\Debug\upravljaneGreskama.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\source\repos\upravljaneGreskama\obj\Debug\upravljaneGreskama.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\upravljaneGreskama\obj\Debug\upravljaneGreskama.exe
+C:\Users\ucenik\source\repos\upravljaneGreskama\obj\Debug\upravljaneGreskama.pdb
